@@ -248,6 +248,6 @@ public class Solution implements DatesToCronConverter {
 
     @Override
     public String getImplementationInfo() {
-        return "Kozlov Vladislav Olegovich, class Solution, package com.kozlov.vladislav, git_s";
+        return "Kozlov Vladislav Olegovich, class Solution, package com.kozlov.vladislav, https://github.com/JaguarAztec/test-task";
     }
 }
